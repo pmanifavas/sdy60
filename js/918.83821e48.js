@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkfoodecodeli"]=self["webpackChunkfoodecodeli"]||[]).push([[918],{4918:(e,o,c)=>{c.r(o),c.d(o,{default:()=>f});const d={},s=d,f=s}}]);
